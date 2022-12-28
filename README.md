@@ -4,7 +4,7 @@ KDE Bandwidth selector implementation in Python.
 
 ### Content
 
-This project includes a KDE implementation with numpy, scipy and the following four KDE estimators:
+This project includes a KDE implementation with numpy, scipy and the following four bandwidth selectors:
 
 - Silverman's rule of thumb
 - Scott's rule of thumb
@@ -17,9 +17,9 @@ The four estimators are tested on four KDE kernels (Gaussian, Epanechnikov, Cosi
 
 ### Reference
 
-[1] Scott, D.W. 1992. Multivariate density estimation: theory, practice, and visualization. John Wiley & Sons.
-[2] Silverman, B.W. 1986. Density Estimation for Statistics and Data Analysis. Chapman & Hall/CRC Monographs on Statistics and Applied Probability.
-[3] Wand, M.P. and Jones, M.C. 1994. Kernel smoothing. CRC press.
+1. Scott, D.W. 1992. Multivariate density estimation: theory, practice, and visualization. John Wiley & Sons.
+2. Silverman, B.W. 1986. Density Estimation for Statistics and Data Analysis. Chapman & Hall/CRC Monographs on Statistics and Applied Probability.
+3. Wand, M.P. and Jones, M.C. 1994. Kernel smoothing. CRC press.
 
 ---
 
